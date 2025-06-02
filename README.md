@@ -6,10 +6,15 @@ HRIRのデータを保持するSOFAファイルをもとに3Dパンニングを�
 を参考にしました。
 
 
+
+
 ## 外部ライブラリ
 
 [libBasicSOFA](https://github.com/superkittens/libBasicSOFA) を使用しSOFAファイルのデータを取得するようにしました。[Orbiter](https://github.com/superkittens/Orbiter?tab=readme-ov-file)のIssuesの項目にある通り、
 Theta/Phi/Radiusが必ずとれる状態でなかったので少しスクリプトを改変しています。
+
+
+
 
 ## 使用可能なSOFAファイル
 
