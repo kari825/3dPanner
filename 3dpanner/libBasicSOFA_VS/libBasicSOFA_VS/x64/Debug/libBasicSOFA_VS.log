@@ -1,0 +1,29 @@
+﻿  BasicSOFA.cpp
+C:\Users\admin\hdf5\build\install\include\H5Opublic.h(642,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\admin\hdf5\build\install\include\H5Opublic.h(1287,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\admin\hdf5\build\install\include\H5Tpublic.h(1762,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\admin\hdf5\build\install\include\H5Tpublic.h(2582,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\admin\hdf5\build\install\include\H5Dpublic.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\admin\hdf5\build\install\include\H5Fpublic.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\admin\hdf5\build\install\include\H5Gpublic.h(760,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\admin\hdf5\build\install\include\H5Ppublic.h(741,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\admin\hdf5\build\install\include\H5Ppublic.h(2881,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\admin\hdf5\build\install\include\H5Ppublic.h(4321,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\admin\hdf5\build\install\include\H5Ppublic.h(6277,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\admin\hdf5\build\install\include\H5Ppublic.h(8867,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\admin\hdf5\build\install\include\H5Ppublic.h(9552,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\admin\libBasicSOFA\libBasicSOFA\libBasicSOFA\BasicSOFA\BasicSOFA\BasicSOFA.hpp(33,9): warning C4068: 不明な pragma 'GCC'
+C:\Users\admin\libBasicSOFA\libBasicSOFA\libBasicSOFA\BasicSOFA\BasicSOFA\BasicSOFA.hpp(60,48): warning C4244: 'return': 'const hsize_t' から 'double' への変換です。データが失われる可能性があります。
+C:\Users\admin\libBasicSOFA\libBasicSOFA\libBasicSOFA\BasicSOFA\BasicSOFA\BasicSOFA.hpp(61,48): warning C4244: 'return': 'const hsize_t' から 'double' への変換です。データが失われる可能性があります。
+C:\Users\admin\libBasicSOFA\libBasicSOFA\libBasicSOFA\BasicSOFA\BasicSOFA\BasicSOFA.hpp(62,48): warning C4244: 'return': 'const hsize_t' から 'double' への変換です。データが失われる可能性があります。
+C:\Users\admin\libBasicSOFA\libBasicSOFA\libBasicSOFA\BasicSOFA\BasicSOFA\BasicSOFA.hpp(63,48): warning C4244: 'return': 'const hsize_t' から 'double' への変換です。データが失われる可能性があります。
+C:\Users\admin\libBasicSOFA\libBasicSOFA\libBasicSOFA\BasicSOFA\BasicSOFA\BasicSOFA.hpp(129,9): warning C4068: 不明な pragma 'GCC'
+C:\Users\admin\libBasicSOFA\libBasicSOFA\libBasicSOFA\BasicSOFA\BasicSOFA\BasicSOFAPriv.hpp(10,9): warning C4068: 不明な pragma 'GCC'
+C:\Users\admin\libBasicSOFA\libBasicSOFA\libBasicSOFA\BasicSOFA\BasicSOFA\BasicSOFAPriv.hpp(18,9): warning C4068: 不明な pragma 'GCC'
+BasicSOFA.obj : error LNK2001: 外部シンボル "public: static class H5::DataSpace const & const H5::DataSpace::ALL" (?ALL@DataSpace@H5@@2AEBV12@EB) は未解決です
+BasicSOFA.obj : error LNK2001: 外部シンボル "public: static class H5::FileAccPropList const & const H5::FileAccPropList::DEFAULT" (?DEFAULT@FileAccPropList@H5@@2AEBV12@EB) は未解決です
+BasicSOFA.obj : error LNK2001: 外部シンボル "public: static class H5::FileCreatPropList const & const H5::FileCreatPropList::DEFAULT" (?DEFAULT@FileCreatPropList@H5@@2AEBV12@EB) は未解決です
+BasicSOFA.obj : error LNK2001: 外部シンボル "public: static class H5::DSetMemXferPropList const & const H5::DSetMemXferPropList::DEFAULT" (?DEFAULT@DSetMemXferPropList@H5@@2AEBV12@EB) は未解決です
+BasicSOFA.obj : error LNK2001: 外部シンボル "public: static class H5::DSetAccPropList const & const H5::DSetAccPropList::DEFAULT" (?DEFAULT@DSetAccPropList@H5@@2AEBV12@EB) は未解決です
+BasicSOFA.obj : error LNK2001: 外部シンボル "public: static class H5::PredType const & const H5::PredType::NATIVE_DOUBLE" (?NATIVE_DOUBLE@PredType@H5@@2AEBV12@EB) は未解決です
+C:\Users\admin\libBasicSOFA_VS\x64\Debug\libBasicSOFA_VS.exe : fatal error LNK1120: 6 件の未解決の外部参照

@@ -1,0 +1,24 @@
+﻿  BasicSOFA.cpp
+C:\Users\admin\libBasicSOFA\libBasicSOFA\libBasicSOFA\BasicSOFA\BasicSOFA\BasicSOFA.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\admin\hdf5_install\include\H5Opublic.h(642,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\admin\hdf5_install\include\H5Opublic.h(1287,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\admin\hdf5_install\include\H5Tpublic.h(1762,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\admin\hdf5_install\include\H5Tpublic.h(2582,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\admin\hdf5_install\include\H5Dpublic.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\admin\hdf5_install\include\H5Fpublic.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\admin\hdf5_install\include\H5Gpublic.h(760,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\admin\hdf5_install\include\H5Ppublic.h(741,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\admin\hdf5_install\include\H5Ppublic.h(2881,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\admin\hdf5_install\include\H5Ppublic.h(4321,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\admin\hdf5_install\include\H5Ppublic.h(6277,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\admin\hdf5_install\include\H5Ppublic.h(8867,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\admin\hdf5_install\include\H5Ppublic.h(9552,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\admin\libBasicSOFA\libBasicSOFA\libBasicSOFA\BasicSOFA\BasicSOFA\BasicSOFA.hpp(33,9): warning C4068: 不明な pragma 'GCC'
+C:\Users\admin\libBasicSOFA\libBasicSOFA\libBasicSOFA\BasicSOFA\BasicSOFA\BasicSOFA.hpp(61,48): warning C4244: 'return': 'const hsize_t' から 'double' への変換です。データが失われる可能性があります。
+C:\Users\admin\libBasicSOFA\libBasicSOFA\libBasicSOFA\BasicSOFA\BasicSOFA\BasicSOFA.hpp(62,48): warning C4244: 'return': 'const hsize_t' から 'double' への変換です。データが失われる可能性があります。
+C:\Users\admin\libBasicSOFA\libBasicSOFA\libBasicSOFA\BasicSOFA\BasicSOFA\BasicSOFA.hpp(63,48): warning C4244: 'return': 'const hsize_t' から 'double' への変換です。データが失われる可能性があります。
+C:\Users\admin\libBasicSOFA\libBasicSOFA\libBasicSOFA\BasicSOFA\BasicSOFA\BasicSOFA.hpp(64,48): warning C4244: 'return': 'const hsize_t' から 'double' への変換です。データが失われる可能性があります。
+C:\Users\admin\libBasicSOFA\libBasicSOFA\libBasicSOFA\BasicSOFA\BasicSOFA\BasicSOFA.hpp(134,9): warning C4068: 不明な pragma 'GCC'
+C:\Users\admin\libBasicSOFA\libBasicSOFA\libBasicSOFA\BasicSOFA\BasicSOFA\BasicSOFAPriv.hpp(10,9): warning C4068: 不明な pragma 'GCC'
+C:\Users\admin\libBasicSOFA\libBasicSOFA\libBasicSOFA\BasicSOFA\BasicSOFA\BasicSOFAPriv.hpp(18,9): warning C4068: 不明な pragma 'GCC'
+C:\Users\admin\libBasicSOFA\libBasicSOFA\libBasicSOFA\BasicSOFA\BasicSOFA\BasicSOFA.cpp(13,10): fatal  error C1083: include ファイルを開けません。'JuceHeader.h':No such file or directory
