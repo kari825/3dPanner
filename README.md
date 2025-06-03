@@ -2,7 +2,7 @@
 
 HRIRのデータを保持するSOFAファイルをもとに3Dパンニングを行うアプリケーションの開発です。
 開発のフレームワークにはJUCEを使用しており(https://juce.com/)
-、外部ライブラリは既存の3Dパンナ―のOrbiter(https://github.com/superkittens/Orbiter?tab=readme-ov-file)
+、外部スクリプトは既存の3Dパンナ―のOrbiter(https://github.com/superkittens/Orbiter?tab=readme-ov-file)
 を参考にしました。
 
 
