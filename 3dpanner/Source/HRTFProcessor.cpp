@@ -39,7 +39,7 @@ HRTFPanProcessor::HRTFPanProcessor()
     convolverR.prepare(spec);
 }
 
-//SOFAファイルからHRIRのでーったを設定するためのもの
+//SOFAファイルからHRIRのデータを設定するためのもの
 void HRTFPanProcessor::setHRIRFromSOFA(const BasicSOFA::BasicSOFA& sofa)
 {
     currentSOFA = &sofa;
