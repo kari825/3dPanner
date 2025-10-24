@@ -20,3 +20,9 @@ Theta/Phi/Radiusが必ずとれる状態でなかったので少しスクリプ�
 
 https://sofacoustics.org/data/database/fhk/
 このリンクのsofaファイルは読み込めることが確認されている。読み込めないものの場合はplayボタンを押しても無音になってしまっている。
+
+
+## 詳しい制作物解説
+
+製作期間や作るにあたって描いた流れ図などをGoogleDriveにまとめています。
+https://drive.google.com/drive/folders/1ZHny3xk-0wUh5Mt7Im8YWjOIFGClgKdv?usp=drive_link
